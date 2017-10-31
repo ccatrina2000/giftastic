@@ -1,0 +1,22 @@
+p {
+	color: blue;
+}
+
+#button-div {
+	margin: 10px;
+}
+
+button {
+	margin: 10px;
+	background-color: darksalmon;
+	color: black;
+	text-decoration: bold;
+	height: 40px;
+	width: 100px;
+}
+
+form {
+	float: right;
+	margin-right: 200px;
+	margin-top: 50px;
+}
